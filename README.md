@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ifegbesan Tanitoluwa Samuel</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 <img align=”left” width=”400” src=”https://i.gifer.com/origin/b9/b9fc53dba7f96787c89cdb1976119a07_w200.webp” alt=”tani1964” />
