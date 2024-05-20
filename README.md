@@ -12,9 +12,11 @@
  
 <br>
 
-> Software, like all technologies is inherently political. \
+> Software, like all technologies, is a powerful expression of our values and visions.  \
 > \
-> Code inevitably reflects the choices, biases, and desires of its creators.
+> Code inevitably reflects the choices, biases, and desires of its creators,
+> \
+> shaping the future we collectively build.
 
 <br/>
 
