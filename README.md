@@ -1,24 +1,44 @@
-![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Ifegbesan Tanitoluwa Samuel</h1>
-<h3 align="center">A passionate full stack developer.</h3>
-<img align=”left” width=”400” src=”https://i.gifer.com/origin/b9/b9fc53dba7f96787c89cdb1976119a07_w200.webp” alt=”tani1964” />
+<!-- Import Font Awesome CSS -->
+<link href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" rel="stylesheet"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tani1964&label=Profile%20views&color=0e75b6&style=flat" alt="tani1964" /> </p>
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **ifegbesan6@gmail.com**
-
-- ⚡ Fun fact **I love coding**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tani1964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tani1964" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ifegbesan tanitoluwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ifegbesan tanitoluwa" height="30" width="40" /></a>
-</p>
+<h2 align="center">Hello, I'm Tani ツ</h2>
 
 
+- 🌱 I'm a dedicated, self-driven Full-Stack Software Engineer.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tani1964&show_icons=true&locale=en&layout=compact" alt="tani1964" /></p>
+- ❤️‍ I’m open to collaboration on any interesting and/ open-source projects :)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tani1964&" alt="tani1964" /></p>
+- 💬 Need to reach out to me? <a href="mailto:ifegbesan6@gmail.com">Shoot me an email!</a>
+ 
+<br>
+
+> Software, like all technologies is inherently political. \
+> \
+> Code inevitably reflects the choices, biases, and desires of its creators.
+
+<br/>
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+
+<br/>
+
+| **My Streak** | **My Statistics** |
+|:---:|:---:|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darksuei&theme=transparent&hide_border=false&card_width=450) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darksuei&theme=transparent&show_icons=true&hide_border=false&include_all_commits=false&count_private=false&card_width=450) |
+
+
+<!-- <h3 align="left">📊 Github Stats</h3>
+<h3 align="left">💻 Tech stack</h3>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suei43&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+-->
