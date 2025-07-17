@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Tani ツ
+# Hello, I'm Tani.
 
 ### 🌱 Dedicated, Self-Driven Full-Stack Software Engineer
 
@@ -54,7 +54,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white "TypeScript")
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black "JavaScript")
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white "C#")
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white "Go")
+
 
 **Languages:** Python • TypeScript • JavaScript • C# • Go
 
@@ -78,21 +78,16 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white "GraphQL")
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white "gRPC")
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white "Kubernetes")
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white "Terraform")
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white "Prometheus")
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white "Grafana")
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka "Apache Kafka")
+
 
 **Tools:** PostgreSQL • MongoDB • Redis • SQLAlchemy • GraphQL • gRPC • Kubernetes • Terraform • Prometheus • Grafana • Apache Kafka
 
 ### ⚙️ DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white "Docker")
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white "Kubernetes")
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white "Terraform")
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white "GitHub Actions")
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white "Jenkins")
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white "Prometheus")
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white "Grafana")
+
 
 **DevOps:** Docker • Kubernetes • Terraform • GitHub Actions • Jenkins • Prometheus • Grafana
 
